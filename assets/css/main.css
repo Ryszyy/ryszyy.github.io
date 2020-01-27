@@ -70,6 +70,10 @@ input, select, textarea {
 	-ms-appearance: none;
 	appearance: none;
 }
+i {
+	font-size:45px;
+	color:black;
+}
 
 /* Basic */
 
